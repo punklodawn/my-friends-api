@@ -1,0 +1,23 @@
+{
+  "name": "my-friends-api",
+  "version": "1.0.0",
+  "description": "Repaso Express Henry",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/punklodawn/my-friends-api.git"
+  },
+  "author": "Miguel Mansilla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/punklodawn/my-friends-api/issues"
+  },
+  "homepage": "https://github.com/punklodawn/my-friends-api#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
