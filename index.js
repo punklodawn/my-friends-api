@@ -19,6 +19,6 @@ const server = http.createServer((request, response)=>{
     }
 })
 
-server.listen(4055, ()=>{
-    console.log('servidor operativo en pueto 4055 y direccion localhost');
+server.listen(3055, ()=>{
+    console.log('servidor operativo en pueto 3055 y direccion localhost');
 });
